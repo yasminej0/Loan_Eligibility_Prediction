@@ -7,7 +7,7 @@ Kaggle link : https://rb.gy/v19bmg
 Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
   ### EDA with Tableau :
 
- ![](images/dashboard.PNG)
+ ![](dashboard.PNG)
 
 ### EDA with python :
 -->Check out Customer_churn_prediction.ipynb
