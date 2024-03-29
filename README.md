@@ -12,15 +12,15 @@ Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
 ### EDA with python :
 -->Check out Customer_churn_prediction.ipynb
 ### Insights 🔮
-- Short-term contracts, notably month-to-month, result in a significant increase in churn rates.
-- Two-year contracts showcase a commendably low churn rate.
-- Customers with a one-year tenure experience a substantial decrease in churn, emphasizing the value of longer relationships.
-- Electronic check payments are associated with a higher churn rate, while credit card payments provide stability.
-- Customers without internet service display an impressively low churn rate.
-- However, those with Fiber Optics internet service are more likely to churn.
-- The senior citizen demographic exhibits a higher churn rate.
-- Emphasizing additional features like Security, Backup, Device Protection, and Tech Support reduces churn likelihood effectively.
-  
+- Applicants without dependents demonstrate a strong interest in loans, while those with one or more dependents have a higher approval rate.
+- Semi-urban areas exhibit a notable tendency towards loan applications.
+- Individuals who are not self-employed are more inclined to apply for loans.
+- Married males show a higher likelihood of both applying for loans and having their applications approved.
+- A positive credit history increases the likelihood of loan approval.
+- High income does not guarantee loan approval; other factors are considered in the decision-making process.
+
+
+
 ### Model Training Results :
 
 Both models are giving very good performance and their accuracy seems to be very close to each other with ANN leading in terms of performance. 
