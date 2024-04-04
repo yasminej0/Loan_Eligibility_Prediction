@@ -17,7 +17,7 @@ Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
 - Individuals who are not self-employed are more inclined to apply for loans.
 - Married males show a higher likelihood of both applying for loans and having their applications approved.
 - A positive credit history increases the likelihood of loan approval.
-- High income does not guarantee loan approval; other factors are considered in the decision-making process.
+- High income does not guarantee loan approval, other factors are considered in the decision-making process.
 
 
 
