@@ -2,7 +2,7 @@
 ### Overview :
 This repository contains an end-to-end project focused on predicting house loan eligibility. The project includes comprehensive Exploratory Data Analysis (EDA) conducted using Tableau to visualize and analyze the dataset. The primary goal is to construct predictive models utilizing Decision Tree, Gaussian Naive Bayes, Logistic Regression, Random Forest, and Support Vector Classifier (SVC) algorithms to determine whether an individual qualifies for a house loan or not.
 
-Kaggle link : -->CHANGE https://rb.gy/v19bmg
+Kaggle link : https://rb.gy/2y21l0
 
 Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
   ### EDA with Tableau :
