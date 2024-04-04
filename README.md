@@ -7,7 +7,7 @@ Kaggle link : https://rb.gy/2y21l0
 Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
   ### EDA with Tableau :
 
- ![](dashboard.PNG)
+ ![](images/dashboard.PNG)
 
 ### EDA with python :
 -->Check out Loan_eligibility_prediction.ipynb
@@ -22,11 +22,18 @@ Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
 
 
 ### Model Training Results :
----CHANGE
-Both models are giving very good performance and their accuracy seems to be very close to each other with ANN leading in terms of performance. 
-#### - ANN :
+Here is a comparison of all models accuracies:
+
+![](images/Models_results.PNG)
+
+Both SVC and RandomForest Classifier are giving very good performance and their accuracy seems to be very close to each other with SVC leading in terms of performance. 
+#### - SVC :
   
- ![](images/cr_1.PNG) 
+ ![](images/SVC.PNG) 
+#### - RandomForest Classifier :
+
+ ![](images/RFC.PNG) 
+  
 
  ### Flask App :
 <details>
