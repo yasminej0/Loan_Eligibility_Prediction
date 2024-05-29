@@ -37,12 +37,5 @@ Both SVC and RandomForest Classifier are giving very good performance and their 
 
  #### Flask App :
 <details>
-  <summary>Click to expand</summary>
-- Form page to input users data :
-
- ![](images/form.PNG)
- 
- - Prediction results :
-   
- ![](images/2.PNG)
+ Pending...
 </details>
